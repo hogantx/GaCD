@@ -10,6 +10,15 @@ The code does this:
 - summaraizes the data,
 - writes a txt file with the data
 
-The code does this with a series of functions.
 
+The code does this with a series of functions.
+- download_data()
+- merge_data()
+- reduce_data()
+- add_activity()
+- descriptive_variables()
+
+## Package Requirements
 ** The code requires the use of the plyr library. **
+
+

@@ -93,6 +93,9 @@ descriptive_variables = function () {
 	reduced_merged <<- reduced_merged
 }
 
+
+descriptive_variables()
+
 tidy <- ddply(reduced_merged, .(subject, activity), function(x) colMeans(x[,1:83]))
 
 write.table(tidy, "tidy.txt", row.names = FALSE)
