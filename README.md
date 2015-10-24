@@ -1,14 +1,14 @@
-## Getting and Cleaning Data
+# Getting and Cleaning Data
 
 This code is the course project for Getting and Cleaning Data.
 
-# Code operation
+## Code operation
 The code does this:
-1 downloads the data,
-2 merges the data,
-3 reduces the data to those attributes with mean or std,
-4 summaraizes the data,
-5 writes a txt file with the data
+- downloads the data,
+- merges the data,
+- reduces the data to those attributes with mean or std,
+- summaraizes the data,
+- writes a txt file with the data
 
 The code does this with a series of functions.
 
