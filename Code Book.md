@@ -118,18 +118,3 @@ The measurements are these:
 * angletbodyaccjerkmean,gravitymean)
 * angletbodygyromean,gravitymean
 * angletbodygyrojerkmean,gravitymean
-
-
-## Microphone Check
-One two what is this?
-The five foot assassin with the roughneck business
-
-
-
-
-
-
-
-
-
-
